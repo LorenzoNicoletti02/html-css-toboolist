@@ -38,7 +38,7 @@ body {
 /* square */
 .square {
     width: 1000px;
-    height: 700px;
+    height: 800px;
     border: 2px solid;
     border-radius: 10px;
     background-color: #ffffff;
@@ -81,24 +81,30 @@ body {
 }
 /* /divider */
 
+/* list */
 .list {
-    margin: 40px 0px 0px 80px;
+    color: #484848;
+    margin-left: 55px;
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     font-size: 25px;
 }
+/* /list */
 
+/* list-2 */
 .list-2 {
     list-style: none;
-    margin-left: -20px;
     font-size: 20px;
+    margin-top: -20px;
 }
+/* list-2 */
 
-.blue {
+/* little-buttons */
+.little-buttons {
     margin-left: 20px;
     font-size: 15px;
-    
 }
+/* little-buttons */
 
 
 
