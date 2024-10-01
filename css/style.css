@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: hsl(0, 0%, 90%);
+    background-color: #e6e6e6;
 }
 
 /* logo */
@@ -80,6 +80,26 @@ body {
     border-color: #ffffff00;
 }
 /* /divider */
+
+.list {
+    margin: 40px 0px 0px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    font-size: 25px;
+}
+
+.list-2 {
+    list-style: none;
+    margin-left: -20px;
+    font-size: 20px;
+}
+
+.blue {
+    margin-left: 20px;
+    font-size: 15px;
+    
+}
+
 
 
 
