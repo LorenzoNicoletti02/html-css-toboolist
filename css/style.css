@@ -55,7 +55,7 @@ body {
     margin-top: 20px;
     margin-bottom: 5px;
     color: #ffffff;
-    background-color: #0080ffad;
+    background-color: #45abe9;
     border-radius: 5px;
     padding: 10px;
     border-color:#0080ff00;
@@ -97,14 +97,89 @@ body {
     font-size: 20px;
     margin-top: -20px;
 }
-/* list-2 */
+/* /list-2 */
 
-/* little-buttons */
-.little-buttons {
+/* blue */
+.blue {
     margin-left: 20px;
-    font-size: 15px;
+    font-size: 12px;
+    background-color: #45abe9;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
 }
-/* little-buttons */
+/* /blue */
+
+/* purple */
+.purple {
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: #9c72e4;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
+}
+/* /purple */
+
+/* recruiting */
+.recruiting {
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: #64c0a9;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
+}
+/* /recruiting */
+
+/* mobile */
+.mobile {
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: #f29e33;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
+}
+/* /mobile */
+
+/* website */
+.website {
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: #d763a1;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
+}
+/* /website */
+
+/* sales */
+.sales {
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: #b0c925;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 30%;
+}
+/* /sales */
+
+/* check */
+.check{
+    color: #65c0a9;
+    border: 2px solid;
+    border-radius: 100%;
+}
+/* /check */
+
+/* cross */
+.cross{
+    color: #eb473d;
+    border: 2px solid;
+    border-radius: 100%;
+}
+/* /cross */
 
 
 
