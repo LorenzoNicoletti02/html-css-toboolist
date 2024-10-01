@@ -1,7 +1,7 @@
 /* selettore universale */
 * {
     box-sizing: border-box;
-    margin: 5px 0px 30px 0px;
+    margin: 0px 0px 30px 0px;
     padding: 0;
 }
 
@@ -11,21 +11,27 @@ body {
 
 /* logo */
 .logo {
-    width: 70px;
+    width: 80px;
+    vertical-align: middle;
 }
 /* /logo */
 
 /* main-title */
 .main-title {
-    font-size: 300%;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 55px;
+    vertical-align: auto;
 }
 /* /main-title */
 
 /* container */
 .container{
+    width: 100%;
     background-color: #ffffff;
-    margin: -10px -10px 0px -10px;
+    margin: 0%;
     padding-left: 40px;
+    padding-top: 20px;
+    display: inline-block;
 }
 /* /container */
 
@@ -45,28 +51,35 @@ body {
 
 /* blue button */
 .add-task {
-    margin-left: 40px;
-    margin-top: 5px;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 5px;
     color: #ffffff;
-    background-color: #006affad;
+    background-color: #0080ffad;
     border-radius: 5px;
-    padding: 5px 5px 5px 5px;
-    border-color:#006affad;
+    padding: 10px;
+    border-color:#0080ff00;
 }
 /* /blue button */
 
 /* grey button */
 .add-section {
     margin-left: 3px;
-    margin-top: 5px;
     color: #999999;
     background-color: #ffffff;
     border-radius: 5px;
-    padding: 5px 5px 5px 5px;
-    border-color:#999999;
+    padding: 10px;
+    border-color:#c2c2c282;
 }
 /* /grey button */
 
+/* divider */
+.divider {
+    margin-top: -20px;
+    background-color: #e6e6e6;
+    border-color: #ffffff00;
+}
+/* /divider */
 
 
 
