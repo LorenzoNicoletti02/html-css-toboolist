@@ -20,18 +20,17 @@ body {
 .main-title {
     font-family:Arial, Helvetica, sans-serif ;
     font-size: 55px;
-    vertical-align: auto;
 }
 /* /main-title */
 
 /* container */
 .container{
     width: 100%;
-    background-color: #ffffff;
-    margin: 0%;
     padding-left: 40px;
     padding-top: 20px;
     display: inline-block;
+    height: 120px;
+    background-color: #ffffff;
 }
 /* /container */
 
@@ -41,10 +40,10 @@ body {
     height: 800px;
     border: 2px solid;
     border-radius: 10px;
-    background-color: #ffffff;
-    border-color: #ffffff;
     margin: auto;
     margin-top: 70px;
+    background-color: #ffffff;
+    border-color: #ffffff;
     
 }
 /* /square */
@@ -54,10 +53,10 @@ body {
     margin-left: 60px;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: #ffffff;
-    background-color: #45abe9;
     border-radius: 5px;
     padding: 10px;
+    color: #ffffff;
+    background-color: #45abe9;
     border-color:#0080ff00;
 }
 /* /blue button */
@@ -65,10 +64,10 @@ body {
 /* grey button */
 .add-section {
     margin-left: 3px;
-    color: #999999;
-    background-color: #ffffff;
     border-radius: 5px;
     padding: 10px;
+    color: #999999;
+    background-color: #ffffff;
     border-color:#c2c2c282;
 }
 /* /grey button */
@@ -83,11 +82,11 @@ body {
 
 /* list */
 .list {
-    color: #484848;
     margin-left: 55px;
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     font-size: 25px;
+    color: #484848;
 }
 /* /list */
 
@@ -103,10 +102,10 @@ body {
 .blue {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #45abe9;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #45abe9;
 }
 /* /blue */
 
@@ -114,10 +113,10 @@ body {
 .purple {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #9c72e4;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #9c72e4;
 }
 /* /purple */
 
@@ -125,10 +124,10 @@ body {
 .recruiting {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #64c0a9;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #64c0a9;
 }
 /* /recruiting */
 
@@ -136,10 +135,10 @@ body {
 .mobile {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #f29e33;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #f29e33;
 }
 /* /mobile */
 
@@ -147,10 +146,10 @@ body {
 .website {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #d763a1;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #d763a1;
 }
 /* /website */
 
@@ -158,26 +157,26 @@ body {
 .sales {
     margin-left: 20px;
     font-size: 12px;
-    background-color: #b0c925;
-    color: #ffffff;
     padding: 8px;
     border-radius: 30%;
+    color: #ffffff;
+    background-color: #b0c925;
 }
 /* /sales */
 
 /* check */
 .check{
-    color: #65c0a9;
     border: 2px solid;
     border-radius: 100%;
+    color: #65c0a9;
 }
 /* /check */
 
 /* cross */
 .cross{
-    color: #eb473d;
     border: 2px solid;
     border-radius: 100%;
+    color: #eb473d;
 }
 /* /cross */
 
